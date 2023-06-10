@@ -1,0 +1,17 @@
+title: A mini test website
+email: jean-baptiste.baitairian@inria.fr
+description: >-
+  A minimal test.
+baseurl: ""
+url: "jeanbaptistebaitairian.github.io"
+github_username: "jeanbaptistebaitairian"
+
+remote_theme: StartBootstrap/startbootstrap-clean-blog-jekyll
+
+name: A minimal test.
+
+exclude:
+  - tmp/
+  - vendor/
+  - Gemfile
+  - Gemfile.lock
