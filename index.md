@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Welcome on my personal website!"
+title: "Welcome to my personal website!"
 description: "It is currently under construction..."
 background: "banner.jpg"
 ---
