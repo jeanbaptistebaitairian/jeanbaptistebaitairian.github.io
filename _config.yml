@@ -1,15 +1,14 @@
-title: A mini test website
+title: Jean-Baptiste BAITAIRIAN
 email: jean-baptiste.baitairian@inria.fr
 description: >-
-  A minimal test.
+  Jean-Baptiste BAITAIRIAN's website.
 baseurl: ""
 url: "jeanbaptistebaitairian.github.io"
 github_username: "jeanbaptistebaitairian"
 
-remote_theme: alshedivat/al-folio
-#StartBootstrap/startbootstrap-clean-blog-jekyll
+remote_theme: StartBootstrap/startbootstrap-clean-blog-jekyll
 
-name: A minimal test.
+name: Jean-Baptiste BAITAIRIAN's website.
 
 exclude:
   - tmp/
