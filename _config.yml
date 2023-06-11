@@ -6,7 +6,8 @@ baseurl: ""
 url: "jeanbaptistebaitairian.github.io"
 github_username: "jeanbaptistebaitairian"
 
-remote_theme: StartBootstrap/startbootstrap-clean-blog-jekyll
+remote_theme: LeNPaul/academic
+#StartBootstrap/startbootstrap-clean-blog-jekyll
 
 name: Jean-Baptiste BAITAIRIAN's website.
 
