@@ -5,6 +5,7 @@ description: >-
 baseurl: ""
 url: "jeanbaptistebaitairian.github.io"
 github_username: "jeanbaptistebaitairian"
+linkedin_username: "Jean-Baptiste Baitairian"
 
 remote_theme: StartBootstrap/startbootstrap-clean-blog-jekyll
 #LeNPaul/academic
